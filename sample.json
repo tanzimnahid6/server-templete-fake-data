@@ -1,0 +1,27 @@
+[
+  {
+    "name": "John Doe",
+    "roll": 123456,
+    "gpa": 3.75
+  },
+  {
+    "name": "Jane Smith",
+    "roll": 234567,
+    "gpa": 3.85
+  },
+  {
+    "name": "David Johnson",
+    "roll": 345678,
+    "gpa": 3.65
+  },
+  {
+    "name": "Emily Davis",
+    "roll": 456789,
+    "gpa": 3.95
+  },
+  {
+    "name": "Michael Wilson",
+    "roll": 567890,
+    "gpa": 3.8
+  }
+]
